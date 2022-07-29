@@ -1,11 +1,11 @@
 # Amazon_Vine_Analysis
 
-##Overview of the analysis:
+## Overview of the analysis:
 The purpose of this project is to analyze written Amazon Reviews by members of the paid
 Amazon Vine program and determine if there is any biases in the Vine reviews. In this case,
 we will be analyzing reviews of Amazon Tools in the US.
 
-##Results:
+## Results:
 Our first step was to extract the amazon dataset
 
 ![Extract the dataset](Resources/screenshot1.png)
@@ -31,7 +31,7 @@ With the data ready, we can then run queries to determine
 - What percentage of Vine reviews were 5 stars?
 - What percentage of non-Vine reviews were 5 stars?
 
-##Summary:
+## Summary:
 In summary, there are:
 - 31,827 helpful reviews total
 - 285 of the reviews are Vine reviews
